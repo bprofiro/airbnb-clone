@@ -7,8 +7,9 @@ class PropertyController {
     const { latitude, longitude } = request.all();
 
     const properties = Property.query()
-      .nearby(latitude, longitude, 10)
-      .fetch();
+      .with('images')
+      .nearBy(latitude, longitude, 10)
+      .fetch()
 
     return properties;
   }
