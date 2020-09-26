@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Brenda" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
+    <img alt="Feito pela Brenda" src="https://img.shields.io/badge/feito%20pela-Brenda-%237519C1">
   </a>
 </p>
 
