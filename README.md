@@ -20,7 +20,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/bprofiro/airbnb-clone?style=social">
   </a>
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://github.com/bprofiro/">
     <img alt="Feito pela Brenda" src="https://img.shields.io/badge/feito%20pela-Brenda-%237519C1">
   </a>
 </p>
